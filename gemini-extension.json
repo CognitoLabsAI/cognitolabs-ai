@@ -1,0 +1,7 @@
+{
+  "name": "cognitolabs",
+  "version": "1.0.0",
+  "description": "US hospital prices, payer rates and Medicare data, plus pricing studies, for healthcare finance teams.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": { "cognitolabs": { "httpUrl": "https://mcp.cognitolabs.ai/mcp" } }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "cognitolabs",
+  "version": "1.0.0",
+  "description": "US hospital prices, payer rates and Medicare data, plus pricing studies, for healthcare finance teams.",
+  "author": { "name": "CognitoLabs.ai", "email": "support@cognitolabs.ai", "url": "https://cognitolabs.ai" },
+  "homepage": "https://docs.cognitolabs.ai",
+  "license": "MIT",
+  "keywords": ["healthcare", "price transparency", "hospital prices", "payer rates", "medicare"]
+}

@@ -1,0 +1,5 @@
+{
+  "name": "cognitolabs",
+  "owner": { "name": "CognitoLabs.ai", "email": "support@cognitolabs.ai" },
+  "plugins": [{ "name": "cognitolabs", "source": "./", "description": "US hospital prices, payer rates and Medicare data, plus pricing studies, for healthcare finance teams." }]
+}
